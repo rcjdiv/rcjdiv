@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christian J Diez 
+- 👋 Hi, I’m Christian Diez 
 - 👀 I’m interested in Web Development and Software Testing
 - 🌱 I’m currently working at Alliance Software Inc.
 - 💞️ I’m looking to collaborate on projects where I can use my knowledge and skills on Web Development and Software Testing
