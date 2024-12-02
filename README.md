@@ -1,6 +1,6 @@
 # Konnichiwa 👋
 <div align="center">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://github.ibm.com/christiandieziv/christiandieziv/blob/main/assets/208593.gif">
+  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/rcjdiv/rcjdiv/blob/main/assets/208593.gif">
 </div>
 </br>
 <p align="center">
@@ -14,13 +14,13 @@
 
 </br>
 <p align="center">
-  <img src="https://github.ibm.com/christiandieziv/christiandieziv/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
-  <img src="https://github.ibm.com/christiandieziv/christiandieziv/blob/main/assets/icons/aws.png" alt="aws"  width="100" hight="50">
-  <img src="https://github.ibm.com/christiandieziv/christiandieziv/blob/main/assets/icons/azure.png" alt="azure" width="90" hight="50">
+  <img src="https://github.com/rcjdiv/rcjdiv/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
+  <img src="https://github.com/rcjdiv/rcjdiv/blob/main/assets/icons/aws.png" alt="aws"  width="100" hight="50">
+  <img src="https://github.com/rcjdiv/rcjdiv/blob/main/assets/icons/azure.png" alt="azure" width="90" hight="50">
 </p>
 <p align="center">
-<img src="https://github.ibm.com/christiandieziv/christiandieziv/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.ibm.com/christiandieziv/christiandieziv/blob/main/assets/icons/visualstudio_code.png" alt="vscode" width="180" hight="50">
+<img src="https://github.com/rcjdiv/rcjdiv/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/rcjdiv/rcjdiv/blob/main/assets/icons/visualstudio_code.png" alt="vscode" width="180" hight="50">
 </p>
 </br>
 
@@ -28,5 +28,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rcjdiv/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://rcjdiv.github.io/portfolio/"><img width="32px" alt="rcjdiv" title="rcjdiv" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
